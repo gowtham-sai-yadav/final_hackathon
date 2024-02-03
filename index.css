@@ -1,0 +1,79 @@
+.nav{
+    margin:0px;
+    height:50px;
+    color:aqua;
+    border: 1px solid lightblue;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
+.post-1{
+   margin-left: 4px;
+}
+h5{
+    margin-top: 5px;
+}
+#posttext{
+    margin-top: -12px;
+}
+.logo-1{
+    margin-top: 8px;
+    margin-left: 40px;
+    position: relative;
+    width:50%;
+    
+}
+.logo-2{
+    position: relative;
+    width:50%;
+    margin-left: 1300px;
+    margin-top: 8px;
+    
+}
+#feed{
+    display: block;
+}
+#home{
+   
+    height:500px;
+    
+    
+    
+    
+    
+}
+
+.feedleft{
+    
+    width:942.5px;
+    height:500px;
+    
+}
+.feedright{
+    margin-top:-504px;
+    
+    width:942.5px;
+    
+    height:500px;
+    
+    margin-left: 50%;
+}
+.feed-1{
+    border: 2px solid grey;
+    border-radius: 10px;
+    width:400px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+#username{
+    display: flex;
+    flex-direction: row;
+    width:340px;
+}
